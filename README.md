@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Cecille Bandeira
 
-Desenvolvedora Full-Stack estudante Sistemas de Informação na Universidade Santa Cecília, 8º período.
+Desenvolvedora Full-Stack formada em Sistemas de Informação na Universidade Santa Cecília
 
 ---
 
